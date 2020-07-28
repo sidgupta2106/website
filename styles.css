@@ -1,0 +1,140 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #40514e;
+}
+.top{
+    background-color: #bbe1fa;
+    padding-top: 100px;
+}
+hr {
+    border-color: #c9dfdf;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+    margin-bottom: 100px;
+  }
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 437.5%;
+    color: #0f4c75;
+}
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    color: #0f4c75;
+}
+.programmer {
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Lato', sans-serif;
+    color: #3282b8;
+}
+
+.btm-cld {
+    width: 15%;
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    margin: 0px;
+}
+.top-cld {
+    width: 15%;
+    position: relative;
+    top: 25px;
+    bottom: 25px;
+    left: 300px;
+    margin: 0px;
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+.profile-img {
+    /**margin-top: 75px;**/
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.design-dev {
+    padding-top: 50px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.gaming{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+.contact-me {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 13px;
+    background-color: #0F4C75;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+    
+.btn:hover {
+    background: #3282B8;
+    border: solid #3282B8 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
+
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color: #3282b8;
+
+}
+
+.footer-link {
+    color: white;
+    font-weight: 200;
+    margin: 0px 30px;
+}
+
+.copyright {
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+
+a.footer-link{
+    text-decoration: none;
+}
+a.footer-link:hover {
+    text-decoration: underline;
+}
